@@ -4,7 +4,7 @@ This repository contains the files that I had used for the Cloud Academy Terrafo
 
 # How to Use
 
-1. Ensure Terraforms and AWS CLI are installed on your machine
+1. Ensure Terraform and AWS CLI are installed on your machine
 
 2. Run the file in s3-bukcet-and-encrypt by running: . ./file.sh
 
@@ -16,7 +16,7 @@ Then run the follow commands from your command:
 5. terraform plan
 6. terraform apply
 
-type 'yes' when prompted
+Type 'yes' when prompted.
 
 And now an AWS EC2 instance with EBS along with an S3 bucket that is encrypted and a dynamo table have all been deployed.
 
